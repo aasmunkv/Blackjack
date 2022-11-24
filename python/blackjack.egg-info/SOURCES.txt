@@ -3,6 +3,7 @@ setup.py
 blackjack/__init__.py
 blackjack/card.py
 blackjack/deck.py
+blackjack/game.py
 blackjack/program.py
 blackjack/suit.py
 blackjack.egg-info/PKG-INFO
