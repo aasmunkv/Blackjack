@@ -1,5 +1,5 @@
 # Løsning
-Underveis i implementeringen så kom jeg til konklusjonen om at det ville vært snevet mer morsomt å
+Underveis i implementeringen så kom jeg frem til at det ville vært snevet mer morsomt å
 lage en simulering av et lite konsoll-kasino. Min løsning av alle 6 oppgavene er av den grunn
 flyttet til en fil jeg har kalt 'game.py' som inneholder et objekt kalt 'Game'. 'Game' består av 
 metoder jeg så på som nødvendig for å kunne gjennomføre en komplett runde med Blackjack mot en
